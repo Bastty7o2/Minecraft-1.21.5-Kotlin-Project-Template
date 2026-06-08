@@ -1,8 +1,8 @@
 name: TestPlugin
 version: 1.0
-main: com.example.test.TestPlugin
-api-version: 1.20
+main: net.basttycraft.play.TestPlugin
+api-version: 1.21.5g
 description: Super cool test plugin!
-author: Stephen
-contributors: [Brandon, Josh]
+author: Bastty
+contributors: [Bastty]
 website: https://mcworkshop.org
